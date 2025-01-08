@@ -129,3 +129,45 @@ name {
 span.highlight {
   background-color: #ffffd0;
 }
+
+#main {
+  width:100%;
+  max-width:800px;
+  border:0px;
+  border-spacing:0px;
+  border-collapse:separate;
+  margin-right:auto;
+  margin-left:auto;
+}
+
+.common_table_style {
+  width:100%;
+  border:0px;
+  border-spacing:0px;
+  border-collapse:separate;
+  margin-right:auto;
+  margin-left:auto;
+}
+
+.paper_image {
+  padding-left: 20px;
+  width:25%;
+  height: 100%;
+  text-align: center;
+}
+
+.paper_image img{
+  width: 200px;
+  height: 100%;
+  object-fit: contain;
+}
+
+.paper_description {
+  padding-left: 30px;
+  width:70%;
+  vertical-align:middle;
+}
+
+.two {
+  opacity: 0;
+}
